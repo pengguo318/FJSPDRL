@@ -2,6 +2,7 @@
 #The code and data will be published after accepting our paper
 
 If you are interesting in our paper, or you refer to our source code. Please cite our works.
+
 1.Kun Lei, Peng Guo, Yi Wang, Xiao Wu, Wenchao Zhao. Solve routing problems with a residual edge-graph attention neural network. Neurocomputing.2022.
 https://arxiv.org/abs/2105.02730
 
